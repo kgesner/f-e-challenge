@@ -1,2 +1,2 @@
-# kgesner.github.io
-GitHub page for Bloc Frontend Challenge
+# f-e-challenge
+Former GitHub page for Bloc Frontend Challenge
